@@ -8,6 +8,7 @@ use Carbon\Carbon;
 $d = Carbon::now();
 
 // Complete your assignments
+// noted
 
 echo "carbon test ". $d->addDays(10)  ." <br/><br/>" ;  
 
